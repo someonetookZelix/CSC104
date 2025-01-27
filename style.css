@@ -1,0 +1,30 @@
+/* Set color of page background */
+body{
+	background: #001b66;
+}
+
+/* Set color, alignment, and font of title */
+h1{
+    text-align: center;
+	color: #ffffff;
+	font-family: times new roman;
+}
+
+/* Set color, alignment, and font of sections */
+h2{
+    text-align: center;
+	color: #ffffff;
+	font-family: times new roman;
+}
+
+h3{
+    text-align: center;
+	color: #ffffff;
+	font-family: times new roman;
+}
+
+/* Set color and font of paragraphs */
+p{
+	color: #00ffaa;
+	font-family: times new roman;
+}
